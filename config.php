@@ -8,4 +8,6 @@ define('DB_NAME', 'd58oke6ofk8nhk');
 /* Attempt to connect to PostgreSQL database */
 $link = pg_connect("host=".DB_SERVER." dbname=". DB_NAME ." user=" . DB_USERNAME . " password=" .DB_PASSWORD. "")
 		or die('Could not connect1: ' . pg_last_error());
+
+header('Location:indexhtm;.php')
 ?>
