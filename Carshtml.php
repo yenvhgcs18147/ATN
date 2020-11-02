@@ -5,7 +5,7 @@
     <title></title>
 
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="stylesheet" href="../Style/Design.css">
+    <link rel="stylesheet" href="Style/Design.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
@@ -15,7 +15,7 @@
     <div class="container-fluid">
     <header>
         <div class="row">
-          <img id="logo" src="../Image/logo.png" alt="">
+          <img id="logo" src="Image/logo.png" alt="">
           <nav class="navbar navbar-expand-lg navbar-dark bg-dark"  style="background-color: pink; width: 100%;">
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
               <ul class="navbar-nav mr-auto">
@@ -49,17 +49,17 @@
         <div class="row" style="background-color: #FBEFF5;">
           <div class="col" style="margin: 20px 100px">
             <div class="items">
-              <img class="home" src="../Image/Car/1.jpg">
+              <img class="home" src="Image/Car/1.jpg">
               <h3>Blossom Super 1</h3>
               <p class="price">US$4.00</p>
             </div>
             <div class="items">
-              <img class="home" src="../Image/Car/2.jpg">
+              <img class="home" src="Image/Car/2.jpg">
               <h3>Transformer racing</h3>
               <p class="price">US$4.00</p>
             </div>
             <div class="items">
-              <img class="home" src="../Image/Car/3.jpg">
+              <img class="home" src="Image/Car/3.jpg">
               <h3>Lillabo</h3>
               <p class="price">US$1.00</p>
             </div>
@@ -77,9 +77,9 @@
           </div>
           <div class="col">
             <h2 class="Footer">Follow Us</h2>
-            <img class="imgFooter" src="../Image/Footer/face.png">
-            <img class="imgFooter" src="../Image/Footer/Instagram.png">
-            <img class="imgFooter" src="../Image/Footer/zalo.png">
+            <img class="imgFooter" src="Image/Footer/face.png">
+            <img class="imgFooter" src="Image/Footer/Instagram.png">
+            <img class="imgFooter" src="Image/Footer/zalo.png">
           </div>
         </div>
       </footer>

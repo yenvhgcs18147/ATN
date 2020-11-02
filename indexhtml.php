@@ -26,7 +26,7 @@
               <input type="password" class="form-control" id="exampleInputPassword1" name="Password">
             </div>
             <div class="text-center btn-1">
-              <a href="home.html" style="text-decoration:none">
+              <a href="homehtml.php" style="text-decoration:none">
                 <button type="button" class="btn btn-dark btn-lg btn-block" name="signupBtn"> LOG IN</button>
               </a>
             </div>
@@ -40,7 +40,7 @@
             </div>
             <hr>
             <div class="text-center btn-1">
-              <a href="Signup.html" style="text-decoration:none">
+              <a href="Signuphtml.php" style="text-decoration:none">
                 <button type="button" class="btn btn-dark btn-lg btn-block" name="signupBtn">REGISTER</button>
               </a>
             </div>
