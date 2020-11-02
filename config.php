@@ -9,5 +9,5 @@ define('DB_NAME', 'd58oke6ofk8nhk');
 $link = pg_connect("host=".DB_SERVER." dbname=". DB_NAME ." user=" . DB_USERNAME . " password=" .DB_PASSWORD. "")
 		or die('Could not connect1: ' . pg_last_error());
 
-header('Location:indexhtm;.php')
+header('Location:indexhtm;.php');
 ?>
